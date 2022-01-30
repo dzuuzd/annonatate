@@ -1,8 +1,9 @@
 ---
+layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+  "id": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -20,7 +21,7 @@
   "viewingDirection": "left-to-right",
   "items": [
     {
-      "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+      "id": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -29,7 +30,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/pPrisse1mirrored/full/108,/0/default.jpg",
+          "id": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/pPrisse1mirrored/full/108,/0/default.jpg",
           "type": "thumbnail"
         }
       ],
@@ -37,30 +38,37 @@
       "width": 6924,
       "items": [
         {
-          "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/page/p1/1",
+          "id": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/page/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/annotation/p0001-image",
+              "id": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/annotation/p0001-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/pPrisse1mirrored/full/full/0/default.jpg",
+                "id": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/pPrisse1mirrored/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2801,
                 "width": 6924,
                 "service": [
                   {
-                    "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/pPrisse1mirrored",
+                    "id": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/pPrisse1mirrored",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
                 ]
               },
-              "target": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+              "target": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "{{ '/' | absolute_url }}annotations/pprisse1mirrored-pprisse1mirrored-1-list.json",
+          "type": "Annotation",
+          "target": "{{ '/' | absolute_url }}img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
         }
       ]
     }
