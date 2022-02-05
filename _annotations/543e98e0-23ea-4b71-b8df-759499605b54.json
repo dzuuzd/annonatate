@@ -32,7 +32,7 @@ order: 26
         "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"855.8331909179688,1968.3731689453125 1247.6513671875,1972.009521484375 1250.378662109375,2030.19140625 1209.4696044921875,2023.8277587890625 1132.19677734375,2052.009521484375 946.7423095703125,2041.1004638671875 947.6513671875,2054.73681640625 854.0150146484375,2046.554931640625\"></polygon></svg>"
+            "value": "<svg><polygon points=\"855.8,1968.4 1088.6,1972.9 1159.5,2038.4 1128.6,2055.6 1037.7,2046.6 946.7,2041.1 947.7,2054.7 854,2046.6\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
             "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
