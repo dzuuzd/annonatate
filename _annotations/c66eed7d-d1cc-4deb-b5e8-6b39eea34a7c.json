@@ -7,13 +7,14 @@ order: 14
     "body": [
         {
             "type": "TextualBody",
-            "value": "r",
+            "value": "r-nHH",
             "purpose": "commenting",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-05T15:57:10.685Z"
+            "created": "2022-02-05T15:57:10.685Z",
+            "modified": "2022-02-05T16:14:15.326Z"
         },
         {
             "type": "TextualBody",
@@ -32,7 +33,7 @@ order: 14
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:2758.98193359375,1715.146240234375,95.45458984375,63.6363525390625"
+            "value": "xywh=pixel:2758.98193359375,1715.146240234375,337.272705078125,102.7271728515625"
         },
         "dcterms:isPartOf": {
             "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
