@@ -3,43 +3,43 @@ canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirror
 order: 61
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Das Greisenalter ist eingetreten (w\u00f6rtl.: entstanden).",
-            "purpose": "commenting",
+            "created": "2022-02-05T21:47:40.979Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-05T21:47:40.979Z",
-            "modified": "2022-02-05T21:48:50.534Z"
+            "modified": "2022-02-05T22:15:16.294Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Das Greisenalter hat eingesetzt (w\u00f6rtl.: ist entstanden)."
         },
         {
-            "type": "TextualBody",
-            "value": "\u00dcbersetzung",
-            "purpose": "tagging",
+            "created": "2022-02-05T21:48:53.230Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-05T21:48:53.230Z",
-            "modified": "2022-02-05T21:48:54.431Z"
+            "modified": "2022-02-05T21:48:54.431Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung"
         }
     ],
+    "id": "63f0cc20-f834-485b-849e-92b7c0ac84b0.json",
     "target": {
-        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:2125.6328125,1829.0609130859375,349.0908203125,86.3636474609375"
-        },
         "dcterms:isPartOf": {
             "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:2125.6328125,1829.0609130859375,349.0908203125,86.3636474609375"
+        },
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "63f0cc20-f834-485b-849e-92b7c0ac84b0.json"
+    "type": "Annotation"
 }
