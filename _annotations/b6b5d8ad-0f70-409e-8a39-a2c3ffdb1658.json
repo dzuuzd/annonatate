@@ -33,7 +33,7 @@ order: 15
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:856.4027099609375,1879.2823486328125,90.339599609375,106.9647216796875"
+            "value": "xywh=pixel:856.4027099609375,1879.2823486328125,91.24871826171875,96.3636474609375"
         },
         "dcterms:isPartOf": {
             "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
