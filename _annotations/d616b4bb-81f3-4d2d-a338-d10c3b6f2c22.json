@@ -1,0 +1,45 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 7
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "xr",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-05T13:53:17.520Z",
+            "modified": "2022-02-05T13:53:17.846Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Transkription",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-05T13:53:20.773Z",
+            "modified": "2022-02-05T13:53:22.053Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1982.2030029296875,1735.46044921875,90.8587646484375,102.727294921875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d616b4bb-81f3-4d2d-a338-d10c3b6f2c22.json"
+}
