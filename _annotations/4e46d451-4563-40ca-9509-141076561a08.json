@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 57
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Der Stadtvorsteher und Wesir Ptahhotep sagt:",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-05T19:59:21.176Z",
+            "modified": "2022-02-05T19:59:39.473Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-05T19:59:42.127Z",
+            "modified": "2022-02-05T19:59:43.442Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"843.4783935546875,1881.64501953125 1133.4783935546875,1881.64501953125 1133.4783935546875,1872.55419921875 1188.0238037109375,1872.55419921875 1187.11474609375,1858.9178466796875 1256.2056884765625,1862.55419921875 1258.0238037109375,1853.4632568359375 1396.2056884765625,1856.1905517578125 1394.387451171875,1841.64501953125 1459.842041015625,1839.826904296875 1460.7510986328125,1835.281494140625 1648.932861328125,1840.7359619140625 1655.2965087890625,1916.1905517578125 1440.7510986328125,1925.2813720703125 1298.0238037109375,1928.9178466796875 1294.387451171875,1941.64501953125 1241.66015625,1940.7359619140625 1246.2056884765625,1969.826904296875 1104.387451171875,1978.9178466796875 844.387451171875,1973.4632568359375\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4e46d451-4563-40ca-9509-141076561a08.json"
+}
