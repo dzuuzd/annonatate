@@ -3,43 +3,43 @@ canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirror
 order: 59
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Pseudopartizip",
-            "purpose": "commenting",
+            "created": "2022-02-05T21:46:24.878Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-05T21:46:24.878Z",
-            "modified": "2022-02-05T21:46:30.011Z"
+            "modified": "2022-02-05T21:46:30.011Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Pseudopartizip"
         },
         {
-            "type": "TextualBody",
-            "value": "Grammatik",
-            "purpose": "tagging",
+            "created": "2022-02-05T21:46:35.144Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-05T21:46:35.144Z",
-            "modified": "2022-02-05T21:46:36.872Z"
+            "modified": "2022-02-05T21:46:36.872Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "Grammatik"
         }
     ],
+    "id": "53ab1aca-ccfd-4d41-9ee2-7d79f8b5ea22.json",
     "target": {
         "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:2317.450927734375,1829.0609130859375,156.363525390625,88.181884765625"
+            "value": "xywh=pixel:2068.35986328125,1571.7882080078125,156.363525390625,88.181884765625"
         },
         "dcterms:isPartOf": {
             "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "53ab1aca-ccfd-4d41-9ee2-7d79f8b5ea22.json"
+    "type": "Annotation"
 }
