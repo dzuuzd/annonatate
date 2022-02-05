@@ -1,0 +1,45 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 53
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lehre des Stadtvorstehers und Wesirs Ptahhotep, unter der Majest\u00e4t des K\u00f6nigs von Ober- und Unter\u00e4gypten Jssj \u2013 er lebe f\u00fcr immer und ewig.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-05T19:37:53.993Z",
+            "modified": "2022-02-05T19:41:28.666Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-05T19:41:34.842Z",
+            "modified": "2022-02-05T19:41:37.658Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:836.825439453125,1695.1842041015625,2350.708251953125,152.6923828125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "249eaade-21be-4302-84c4-cc55b1eeb968.json"
+}
