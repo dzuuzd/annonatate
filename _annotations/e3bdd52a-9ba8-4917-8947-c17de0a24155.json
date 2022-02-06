@@ -3,42 +3,42 @@ canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirror
 order: 31
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "sDr.n=f",
-            "purpose": "commenting",
+            "created": "2022-02-05T17:14:43.463Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-05T17:14:43.463Z",
-            "modified": "2022-02-05T17:14:50.969Z"
+            "modified": "2022-02-06T15:04:10.094Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "sDr.n=f oder sDr n=f"
         },
         {
-            "type": "TextualBody",
-            "value": "Transkription",
-            "purpose": "tagging",
+            "created": "2022-02-05T17:14:54.078Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-05T17:14:54.078Z",
-            "modified": "2022-02-05T17:14:54.733Z"
+            "modified": "2022-02-05T17:14:54.733Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "Transkription"
         }
     ],
+    "id": "e3bdd52a-9ba8-4917-8947-c17de0a24155.json",
     "target": {
-        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><polygon points=\"1952.448974609375,1896.993896484375 1954.6068115234375,1987.6202392578125 2257.773681640625,1997.3302001953125 2295.53466796875,2014.5924072265625 2314.95458984375,1999.488037109375 2291.218994140625,1971.43701171875 2296.613525390625,1919.6505126953125 2105.650634765625,1895.9150390625 1992.3677978515625,1889.441650390625 1992.3677978515625,1889.441650390625\"></polygon></svg>"
         },
-        "dcterms:isPartOf": {
-            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
-            "type": "Manifest"
-        }
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "e3bdd52a-9ba8-4917-8947-c17de0a24155.json"
+    "type": "Annotation"
 }
