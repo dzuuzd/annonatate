@@ -3,42 +3,42 @@ canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirror
 order: 69
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Wegen ihr schl\u00e4ft ein Kind den ganzen Tag. (?)",
-            "purpose": "commenting",
+            "created": "2022-02-06T15:12:43.317Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-06T15:12:43.317Z",
-            "modified": "2022-02-06T15:13:19.982Z"
+            "modified": "2022-02-06T15:25:21.387Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Wegen ihr schl\u00e4ft ein Kind den ganzen Tag. (?) Evt. untergeordnet zum vorangehenden Satz: Die Schw\u00e4che ist erneuert, wegen der ein Kind den ganzen Tag schl\u00e4ft."
         },
         {
-            "type": "TextualBody",
-            "value": "\u00dcbersetzung",
-            "purpose": "tagging",
+            "created": "2022-02-06T15:12:54.221Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-06T15:12:54.221Z",
-            "modified": "2022-02-06T15:12:55.755Z"
+            "modified": "2022-02-06T15:12:55.755Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung"
         }
     ],
+    "id": "078c7f32-a1ce-46ab-8ea7-f0236c85b2e8.json",
     "target": {
-        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><polygon points=\"2661.79541015625,1911.1064453125 2680.49609375,1944.5709228515625 2651.952880859375,1952.4449462890625 2679.51171875,1964.2559814453125 2721.83447265625,1964.2559814453125 2720.850341796875,1998.7047119140625 2567.307373046875,2002.6417236328125 2313.37109375,1998.7047119140625 2291.717529296875,2012.484130859375 2250.379150390625,1996.7362060546875 1956.0885009765625,1988.8621826171875 1953.1358642578125,1887.4844970703125 2133.25341796875,1895.3585205078125 2201.166748046875,1914.0592041015625 2314.355224609375,1917.011962890625 2526.953125,1914.0592041015625\"></polygon></svg>"
         },
-        "dcterms:isPartOf": {
-            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
-            "type": "Manifest"
-        }
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "078c7f32-a1ce-46ab-8ea7-f0236c85b2e8.json"
+    "type": "Annotation"
 }
