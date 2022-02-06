@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 75
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Die Augen sind schwach.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T15:54:08.565Z",
+            "modified": "2022-02-06T15:54:19.934Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T15:54:22.021Z",
+            "modified": "2022-02-06T15:54:23.668Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3093.33984375,1897.2841796875 3107.73974609375,2013.7933349609375 2954.576171875,2000.702392578125 2730.7216796875,1979.7569580078125 2720.2490234375,1962.73876953125 2682.285400390625,1965.35693359375 2654.79443359375,1952.2659912109375 2699.303466796875,1916.9205322265625 2869.4853515625,1920.847900390625 2872.103515625,1894.666015625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b497321f-cfc0-49f8-a27a-b99856af5861.json"
+}
