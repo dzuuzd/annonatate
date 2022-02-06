@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 78
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Die Ohren sind taub.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T15:57:04.653Z",
+            "modified": "2022-02-06T15:57:08.746Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T15:57:11.875Z",
+            "modified": "2022-02-06T15:57:13.576Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"865.2672119140625,2050.44775390625 862.6490478515625,2153.865966796875 1530.285400390625,2151.247802734375 1509.3399658203125,2079.247802734375 1514.5762939453125,2029.5023193359375 1324.758056640625,2033.4295654296875 1231.8126220703125,2026.8841552734375 1213.4853515625,2019.0296630859375 1187.3035888671875,2045.21142578125\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5d37c067-7b22-4c41-9e18-32ec40d046d6.json"
+}
