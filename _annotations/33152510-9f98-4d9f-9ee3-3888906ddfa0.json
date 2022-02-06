@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 88
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Er kann nicht mehr sprechen.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T17:16:44.078Z",
+            "modified": "2022-02-06T17:17:08.962Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T17:17:11.723Z",
+            "modified": "2022-02-06T17:17:13.360Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3121.1689453125,2019.524169921875 3168.790771484375,2167.4921875 2876.25634765625,2153.885986328125 2881.358642578125,2067.14599609375 2980.00390625,2080.752197265625 2973.200927734375,2000.8155517578125 3056.539306640625,1997.4139404296875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "33152510-9f98-4d9f-9ee3-3888906ddfa0.json"
+}
