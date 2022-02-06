@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 82
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Die Kraft schwindet, weil mein Herz m\u00fcde ist.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T16:58:15.087Z",
+            "modified": "2022-02-06T16:59:06.440Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T16:59:09.459Z",
+            "modified": "2022-02-06T16:59:10.741Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1522.433349609375,2005.9178466796875 1519.03173828125,2147.082763671875 2707.87890625,2155.586669921875 2680.666259765625,2000.8155517578125 2439.1552734375,1997.4139404296875 2277.580810546875,2011.020263671875 2238.462890625,1988.9100341796875 2190.8408203125,1997.4139404296875 1855.7867431640625,1995.713134765625 1626.18115234375,2014.4217529296875 1563.252197265625,2019.524169921875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d73bd63f-fd7a-4af8-acc6-955fff3f428c.json"
+}
