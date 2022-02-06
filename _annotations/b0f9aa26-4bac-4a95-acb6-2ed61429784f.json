@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 71
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Die Interpretation dieses Satzes geht stark auseinander, besonders auch die von Xdr respektive Xrd. Laut Vernus, in: CRIPEL 18, 1996, 124 ist Xdr eine Graphie von Xrd: \"kindisch sein\"; f\u00fcr Fecht, in: Fs Simpson, I, 253-254 ist Xdr ein altert\u00fcmliches Verb mit der Grundbedeutung \"nehmen\", das die abgeleiteten Bedeutungen (1) \"wegnehmen, fortnehmen, rauben\" und (2) \"herausnehmen, retten\" hat.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T15:20:44.058Z",
+            "modified": "2022-02-06T15:24:12.413Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Erl\u00e4uterung",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T15:20:56.555Z",
+            "modified": "2022-02-06T15:20:57.566Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2722.24462890625,2001.058349609375 2711.335693359375,2002.8765869140625 2509.517333984375,2005.603759765625 2438.6083984375,1996.512939453125 2300.426513671875,1999.240234375 2296.790283203125,2018.3310546875 2230.426513671875,1989.240234375 2180.426513671875,1998.3310546875 1945.881103515625,1988.3310546875 1948.6083984375,1888.3310546875 2111.335693359375,1889.240234375 2154.06298828125,1915.603759765625 2674.971923828125,1911.9674072265625 2684.971923828125,1940.1492919921875 2648.6083984375,1955.603759765625 2683.15380859375,1967.4219970703125 2721.335693359375,1966.512939453125\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b0f9aa26-4bac-4a95-acb6-2ed61429784f.json"
+}
