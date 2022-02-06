@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 72
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Dual feminin",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T15:28:12.077Z",
+            "modified": "2022-02-06T15:28:14.859Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Grammatik",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T15:28:17.340Z",
+            "modified": "2022-02-06T15:28:18.529Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2804.971923828125,1927.422119140625 2874.971923828125,1929.2403564453125 2943.15380859375,1982.876708984375 2856.790283203125,1989.2403564453125 2740.426513671875,1975.6038818359375 2722.244873046875,1963.7857666015625 2682.244873046875,1965.6038818359375 2653.15380859375,1951.0584716796875 2698.6083984375,1938.3311767578125 2720.426513671875,1924.69482421875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "03e4da11-65a3-4e14-9a32-3ed14c918741.json"
+}
