@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 79
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Pseudoverbale Konstruktion mit Pr\u00e4position Hr + Infinitiv",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T16:54:47.932Z",
+            "modified": "2022-02-06T16:55:13.106Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Grammatik",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T16:55:15.802Z",
+            "modified": "2022-02-06T16:55:17.406Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1529.047607421875,2023.4659423828125 1510.1500244140625,2087.245361328125 1560.937255859375,2143.93798828125 2116.053955078125,2146.30029296875 2110.1484375,2068.34765625 2133.770263671875,2049.4501953125 2144.400146484375,2034.0958251953125 2172.74658203125,2060.080078125 2218.8095703125,2057.7177734375 2218.8095703125,1997.481689453125 1878.6529541015625,1990.3951416015625 1701.488037109375,1995.1195068359375\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "004edd4f-7e78-4206-9713-ae99e87638f9.json"
+}
