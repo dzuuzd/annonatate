@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 66
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Pseudoverbale Konstruktion mit Pseudopartizip als Pr\u00e4dikat",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T13:14:52.113Z",
+            "modified": "2022-02-06T13:15:15.169Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Grammatik",
+            "purpose": "tagging",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-06T13:15:18.342Z",
+            "modified": "2022-02-06T13:15:19.258Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"851.7593994140625,1968.232666015625 849.0321655273438,2048.232666015625 915.3958129882812,2048.232666015625 946.3048706054688,2051.869140625 948.123046875,2036.41455078125 994.4866943359375,2046.41455078125 1199.9412841796875,2040.9599609375 1212.66845703125,2016.41455078125 1250.850341796875,2026.41455078125 1299.0321044921875,2026.41455078125 1345.395751953125,2040.9599609375 1335.395751953125,1994.5963134765625 1286.3048095703125,1930.0509033203125 1236.3048095703125,1936.41455078125 1233.57763671875,1971.8690185546875 1013.5775756835938,1973.687255859375 1009.0321655273438,1985.50537109375 852.6685180664062,1970.9599609375\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3230d85d-ee9c-42ad-a774-2b6b10c11bca.json"
+}
