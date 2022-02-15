@@ -1,0 +1,43 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 103
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "In der Paralleltradition pLondon_2 und tCarnarvon steht mn.n=f, aber hier steht das zweite n vor dem Determinativ.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:32:36.847Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Erl\u00e4uterung",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:32:39.726Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4458.29296875,1001.733154296875 4458.29296875,1073.7066650390625 4473.85498046875,1074.6793212890625 4466.07421875,1095.104248046875 4424.25146484375,1064.953125 4368.8125,1063.0079345703125 4373.67578125,1101.91259765625 4305.59228515625,1104.8304443359375 4282.24951171875,1092.1864013671875 4236.53662109375,1099.96728515625 4217.08447265625,1072.734130859375 4228.755859375,996.8701171875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f7344463-c1f0-4b88-a378-865fa242754e.json",
+    "motivation": "commenting"
+}
