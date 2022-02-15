@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 98
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "sDm.n=f-Form",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:20:38.438Z",
+            "modified": "2022-02-15T19:20:49.933Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Grammatik",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:20:53.723Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3910.486572265625,994.583984375 3635.94091796875,990.9475708007812 3633.213623046875,1090.0384521484375 3729.577392578125,1107.311279296875 3734.122802734375,1083.6749267578125 3891.3955078125,1086.402099609375 3947.75927734375,1104.583984375 3955.031982421875,1092.7657470703125 3937.75927734375,1080.0384521484375 3947.75927734375,1038.2203369140625 3917.75927734375,1020.0385131835938\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4a430521-2904-4e2a-b0d3-d366bc280881.json",
+    "motivation": "commenting"
+}
