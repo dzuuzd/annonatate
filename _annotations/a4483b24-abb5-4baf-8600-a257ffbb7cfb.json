@@ -3,42 +3,42 @@ canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirror
 order: 105
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Aww",
-            "purpose": "commenting",
+            "created": "2022-02-15T19:33:36.071Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-15T19:33:36.071Z",
-            "modified": "2022-02-15T19:33:36.649Z"
+            "modified": "2022-02-15T19:33:36.649Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Aww"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "Transkription",
+            "created": "2022-02-15T19:33:39.384Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-15T19:33:39.384Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "Transkription"
         }
     ],
+    "id": "a4483b24-abb5-4baf-8600-a257ffbb7cfb.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"4467.046875,1012.4319458007812 4638.22705078125,1022.1580810546875 4634.33642578125,1052.3092041015625 4642.11767578125,1065.92578125 4665.46044921875,1100.93994140625 4641.14501953125,1104.8304443359375 4538.04736328125,1106.775634765625 4468.01904296875,1108.7208251953125 4460.23828125,1095.104248046875 4472.88232421875,1074.6793212890625 4460.23828125,1062.0352783203125 4465.1015625,1026.048583984375\"></polygon></svg>"
+            "value": "<svg><polygon points=\"4467,1012.4 4638.2,1022.2 4749.1,1027.2 4750.9,1078.1 4665.5,1100.9 4641.1,1104.8 4538,1106.8 4468,1108.7 4460.2,1095.1 4472.9,1074.7 4460.2,1062 4465.1,1026\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
             "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "a4483b24-abb5-4baf-8600-a257ffbb7cfb.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
