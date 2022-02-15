@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 122
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Jeglicher Geschmack ist weg.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T20:13:51.105Z",
+            "modified": "2022-02-15T20:14:47.200Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "\u00dcbersetzung",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T20:14:53.595Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"6079.4677734375,1042.9190673828125 6054.921875,1172.010009765625 5945.8310546875,1147.464599609375 5810.37646484375,1137.464599609375 5785.8310546875,1150.1917724609375 5740.37646484375,1136.555419921875 5704.01318359375,1146.555419921875 5639.4677734375,1132.010009765625 5594.01318359375,1122.9190673828125 5527.6494140625,1131.1009521484375 5484.01318359375,1114.7373046875 5460.37646484375,1120.1917724609375 5442.19482421875,1082.9190673828125 5473.10400390625,1026.555419921875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "68e563e8-c464-4956-a9c7-2ddbed5a943a.json",
+    "motivation": "commenting"
+}
