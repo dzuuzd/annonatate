@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 100
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Er kann sich nicht an gestern erinnern.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:23:48.365Z",
+            "modified": "2022-02-15T19:25:40.358Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "\u00dcbersetzung",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:24:04.039Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4075.082763671875,1002.705810546875 4076.05517578125,1090.2412109375 4032.28759765625,1088.2960205078125 4024.506591796875,1087.3233642578125 4007.97216796875,1098.0220947265625 3977.821044921875,1091.2138671875 3954.478271484375,1093.1590576171875 3942.806884765625,1104.8304443359375 3890.28564453125,1085.378173828125 3788.1611328125,1083.432861328125 3723.968505859375,1080.5150146484375 3718.1328125,1102.88525390625 3634.48779296875,1091.2138671875 3546.952392578125,1086.3507080078125 3543.06201171875,1053.2818603515625 3572.240478515625,1034.8021240234375 3603.3642578125,1047.4461669921875 3606.281982421875,1054.25439453125 3633.51513671875,1055.22705078125 3637.40576171875,989.0891723632812\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "dfc77d38-29c3-48ab-9c39-f74ccfc25168.json",
+    "motivation": "commenting"
+}
