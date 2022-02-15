@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 115
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Das Gute hat sich zum Schlechten gewandelt.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:54:13.107Z",
+            "modified": "2022-02-15T20:07:04.001Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "\u00dcbersetzung",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T20:07:07.833Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4820.96142578125,1007.0897216796875 5467.3251953125,1025.271484375 5442.77978515625,1081.6351318359375 5465.5068359375,1127.998779296875 5270.96142578125,1121.6351318359375 5055.5068359375,1113.453369140625 4702.77978515625,1104.3624267578125 4715.5068359375,1084.3624267578125 4747.3251953125,1077.998779296875 4740.96142578125,1013.4533081054688\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e4901086-e9cb-49ce-bb1d-ba69385e456e.json",
+    "motivation": "commenting"
+}
