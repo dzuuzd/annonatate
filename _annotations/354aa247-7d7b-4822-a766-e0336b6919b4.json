@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 159
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "V31",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T21:31:17.201Z",
+            "modified": "2022-02-15T21:31:17.670Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Hieroglyphe",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T21:31:20.362Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"5518.708984375,2103.641357421875 5554.16357421875,2103.641357421875 5589.6181640625,2144.550537109375 5567.7998046875,2164.550537109375 5500.52734375,2183.641357421875 5489.6181640625,2177.27783203125 5511.4365234375,2135.459716796875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "354aa247-7d7b-4822-a766-e0336b6919b4.json",
+    "motivation": "commenting"
+}
