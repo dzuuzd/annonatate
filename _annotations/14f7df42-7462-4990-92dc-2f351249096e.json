@@ -1,0 +1,44 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 94
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Der Verstand hat aufgeh\u00f6rt.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:11:00.974Z",
+            "modified": "2022-02-15T19:11:11.826Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "\u00dcbersetzung",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T19:11:14.973Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3236.85009765625,977.3112182617188 3238.668212890625,1080.9476318359375 3316.85009765625,1067.3111572265625 3365.03173828125,1080.9476318359375 3372.304443359375,1059.12939453125 3447.759033203125,1077.3111572265625 3543.213623046875,1080.9476318359375 3545.03173828125,1043.6748046875 3568.668212890625,1027.3111572265625 3603.213623046875,1053.6748046875 3637.759033203125,1052.7657470703125 3639.5771484375,982.7657470703125\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "14f7df42-7462-4990-92dc-2f351249096e.json",
+    "motivation": "commenting"
+}
