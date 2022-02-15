@@ -3,42 +3,42 @@ canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirror
 order: 106
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Der Knochen, er schmerzt seit Langem.",
-            "purpose": "commenting",
+            "created": "2022-02-15T19:35:46.823Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-15T19:35:46.823Z",
-            "modified": "2022-02-15T19:36:20.923Z"
+            "modified": "2022-02-15T19:36:20.923Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Der Knochen, er schmerzt seit Langem."
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "\u00dcbersetzung",
+            "created": "2022-02-15T19:36:26.086Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-15T19:36:26.086Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "\u00dcbersetzung"
         }
     ],
+    "id": "184e415d-ba04-4703-8914-b28b74c3d639.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"4081.890869140625,994.9248657226562 4074.110107421875,1080.5150146484375 4125.65869140625,1080.5150146484375 4154.8369140625,1098.9947509765625 4175.26220703125,1081.4876708984375 4202.4951171875,1095.104248046875 4312.40087890625,1091.2137451171875 4326.990234375,1102.8851318359375 4412.580078125,1115.5291748046875 4418.416015625,1095.104248046875 4486.4990234375,1116.5018310546875 4543.88330078125,1102.8851318359375 4584.73291015625,1110.6661376953125 4604.185546875,1099.96728515625 4648.92578125,1109.6934814453125 4662.54248046875,1097.0494384765625 4634.33642578125,1057.1722412109375 4645.03515625,1011.4593505859375\"></polygon></svg>"
+            "value": "<svg><polygon points=\"4081.9,994.9 4074.1,1080.5 4125.7,1080.5 4154.8,1099 4175.3,1081.5 4202.5,1095.1 4312.4,1091.2 4327,1102.9 4412.6,1115.5 4418.4,1095.1 4486.5,1116.5 4543.9,1102.9 4584.7,1110.7 4604.2,1100 4648.9,1109.7 4748.2,1077.2 4750.9,1038.1 4645,1011.5\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
             "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "184e415d-ba04-4703-8914-b28b74c3d639.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
