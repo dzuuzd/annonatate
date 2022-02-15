@@ -1,0 +1,43 @@
+---
+canvas: "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1"
+order: 121
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Pseudoverbale Konstruktion mit Pseudopartizip als Pr\u00e4dikat",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T20:13:18.051Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Grammatik",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-15T20:13:21.730Z"
+        }
+    ],
+    "target": {
+        "source": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/canvas/pPrisse1mirrored-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"6065.8310546875,1038.3736572265625 6073.10400390625,1193.828125 5975.8310546875,1153.828125 5912.19482421875,1147.4644775390625 5800.37646484375,1141.1009521484375 5771.28564453125,1146.555419921875 5737.6494140625,1133.828125 5706.740234375,1149.28271484375 5659.46728515625,1135.6463623046875 5617.6494140625,1125.6463623046875 5574.921875,1120.1917724609375 5561.28564453125,1132.9190673828125 5483.10400390625,1116.555419921875 5465.8310546875,1113.828125 5441.28564453125,1086.555419921875 5463.10400390625,1038.3736572265625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dzuuzd.github.io/annonatate/img/derivatives/iiif/pPrisse1mirrored/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "eb4c61d4-313f-4179-b092-27710a025d11.json",
+    "motivation": "commenting"
+}
