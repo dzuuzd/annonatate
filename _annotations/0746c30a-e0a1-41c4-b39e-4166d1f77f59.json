@@ -3,33 +3,43 @@ canvas: "https://data.artmuseum.princeton.edu/iiif/objects/28185/canvas/28185-ca
 order: 7
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Erleuchte den Osiris Ahmose, geboren von Chered-Anch",
-            "purpose": "commenting",
+            "created": "2022-02-20T17:10:11.008Z",
             "creator": {
                 "id": "dzuuzd",
                 "name": "dzuuzd"
             },
-            "created": "2022-02-20T17:10:11.008Z",
-            "modified": "2022-02-20T17:10:51.015Z"
+            "modified": "2022-02-20T17:10:51.015Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Erleuchte den Osiris Ahmose, geboren von Chered-Anch"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "\u00dcbersetzung",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-20T17:11:27.926Z"
         }
     ],
+    "id": "0746c30a-e0a1-41c4-b39e-4166d1f77f59.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://data.artmuseum.princeton.edu/iiif/objects/28185/canvas/28185-canvas-35250",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=387.4771423339844,868.8263549804688,242.04568481445312,755.5444946289062"
-        },
         "dcterms:isPartOf": {
             "id": "https://data.artmuseum.princeton.edu/iiif/objects/28185",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=387.4771423339844,868.8263549804688,242.04568481445312,755.5444946289062"
+        },
+        "source": "https://data.artmuseum.princeton.edu/iiif/objects/28185/canvas/28185-canvas-35250"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "0746c30a-e0a1-41c4-b39e-4166d1f77f59.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
