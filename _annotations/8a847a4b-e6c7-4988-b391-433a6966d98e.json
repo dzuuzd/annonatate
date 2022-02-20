@@ -1,0 +1,44 @@
+---
+canvas: "https://data.artmuseum.princeton.edu/iiif/objects/28185/canvas/28185-canvas-35250"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Wsjr",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-20T16:59:27.272Z",
+            "modified": "2022-02-20T16:59:29.848Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Transkription",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-02-20T16:59:33.986Z"
+        }
+    ],
+    "target": {
+        "source": "https://data.artmuseum.princeton.edu/iiif/objects/28185/canvas/28185-canvas-35250",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"614.27392578125,1007.5048828125 609.6705322265625,1051.2373046875 485.37847900390625,1042.030517578125 457.75799560546875,1075.4051513671875 402.51708984375,1067.3492431640625 411.72393798828125,1001.7506713867188 435.8918151855469,989.0912475585938 496.8869934082031,998.298095703125 531.4125366210938,990.2421264648438 597.0111083984375,998.298095703125\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://data.artmuseum.princeton.edu/iiif/objects/28185",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8a847a4b-e6c7-4988-b391-433a6966d98e.json",
+    "motivation": "commenting"
+}
