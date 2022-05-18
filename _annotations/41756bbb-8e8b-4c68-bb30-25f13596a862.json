@@ -1,0 +1,31 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "1",
+            "purpose": "editing",
+            "creator": {
+                "id": "dzuuzd",
+                "name": "dzuuzd"
+            },
+            "created": "2022-05-18T14:36:24.258Z",
+            "modified": "2022-05-18T14:36:29.995Z"
+        }
+    ],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=0.7472596764564514,-1.7735110521316528,490.6204771399498,282.9828921556473"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "41756bbb-8e8b-4c68-bb30-25f13596a862.json",
+    "motivation": "commenting"
+}
